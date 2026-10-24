@@ -1,7 +1,12 @@
 # Prospection Decision Board
 
-Brouillon du 2026-10-21, à ajuster par Marc avant usage. Concept uniquement : pas de chiffre de
-client réel, les chiffres de l'artefact Decision Board sont une démo, pas un résultat mesuré.
+Brouillon du 2026-10-21, mis à jour le 24/10, à ajuster par Marc avant usage. Concept uniquement :
+pas de chiffre de client réel, les chiffres de l'artefact Decision Board sont une démo, pas un
+résultat mesuré.
+
+**Rappel sur le produit** : la rupture de stock est une accroche, pas le produit. Decision Board
+va au-delà de GA4 et Shopify, il unifie data et KPI pour piloter la boutique (stock, promo, CRM,
+acquisition), enlève le bruit, avec l'analyse déjà cadrée pour la personne qui décide.
 
 ## Ouverture, appel à froid
 
@@ -16,6 +21,22 @@ client réel, les chiffres de l'artefact Decision Board sont une démo, pas un r
 > Je comprends, vous avez déjà les chiffres. Ce qu'on ajoute, c'est de vous dire quoi faire avec,
 > pas juste les afficher : un résumé simple de ce qui compte cette semaine, avec le détail dessous
 > si vous voulez creuser.
+
+## Objection prix, « ça coûte combien »
+
+Ne jamais sortir un chiffre en l'air : proposer un audit gratuit comme première étape, chiffrer après.
+
+> Ça dépend, je peux vous proposer un audit gratuit pour commencer, pour passer en revue vos
+> process de décision (stock, promo, CRM, acquisition média). La première étape, c'est cet audit,
+> ensuite on regarde ensemble pour un devis.
+
+## Objection temps, « j'ai pas le temps »
+
+Répondre avec des chiffres précis, pas une réassurance vague.
+
+> Très honnêtement, 30 minutes pour que vous m'expliquiez votre quotidien. Ensuite j'ai juste
+> besoin d'un accès provisoire pour regarder comment structurer les données, et je reviens vers
+> vous dans la semaine.
 
 ## E-mail court, si pas de réponse au téléphone
 
