@@ -22,6 +22,17 @@ acquisition), enlève le bruit, avec l'analyse déjà cadrée pour la personne q
 > pas juste les afficher : un résumé simple de ce qui compte cette semaine, avec le détail dessous
 > si vous voulez creuser.
 
+## Objection « on a déjà ProfitMetrics », ou un autre outil de rentabilité pub
+
+Brouillon du 31/10, pas encore testé en séance `vente`. Ne jamais comparer sur le prix. Ne pas dire
+qu'ils n'agissent pas : un outil comme ProfitMetrics règle les enchères pub automatiquement sur la
+marge, mais sur un seul levier (la pub), sans arbitrage avec le stock, les fiches produit ou la
+concurrence.
+
+> Gardez-le, il fait bien son travail sur vos pubs. ProfitMetrics vous donne un meilleur chiffre sur
+> vos pubs. Nous, on vous dit quoi faire sur toute la boutique, pas seulement sur les pubs : si le
+> problème de la semaine est dans la pub, dans le stock, sur une fiche produit ou chez un concurrent.
+
 ## Objection prix, « ça coûte combien »
 
 Ne jamais sortir un chiffre en l'air : proposer un audit gratuit comme première étape, chiffrer après.
