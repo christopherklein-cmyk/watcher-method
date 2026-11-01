@@ -24,10 +24,13 @@ acquisition), enlève le bruit, avec l'analyse déjà cadrée pour la personne q
 
 ## Objection « on a déjà ProfitMetrics », ou un autre outil de rentabilité pub
 
-Brouillon du 31/10, pas encore testé en séance `vente`. Ne jamais comparer sur le prix. Ne pas dire
-qu'ils n'agissent pas : un outil comme ProfitMetrics règle les enchères pub automatiquement sur la
-marge, mais sur un seul levier (la pub), sans arbitrage avec le stock, les fiches produit ou la
-concurrence.
+Brouillon du 31/10, corrigé le 02/11 après audit de leur site (voir
+`decision-board/docs/concurrents/profitmetrics.md`), pas encore testé en séance `vente`. Ne jamais
+comparer sur le prix. Ne pas dire qu'ils n'agissent pas, ni qu'ils ne croisent qu'une seule donnée :
+leur tableau de bord croise déjà pub, commandes, coûts et nouveaux clients, et ils règlent les
+enchères Google Ads et Meta automatiquement sur la marge. Ce qui reste vrai, c'est que leur action
+(l'automatisation) ne porte que sur ce seul levier publicitaire, sans arbitrage avec le stock, les
+fiches produit ou la concurrence.
 
 > Gardez-le, il fait bien son travail sur vos pubs. ProfitMetrics vous donne un meilleur chiffre sur
 > vos pubs. Nous, on vous dit quoi faire sur toute la boutique, pas seulement sur les pubs : si le
